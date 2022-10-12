@@ -1,0 +1,21 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/marcohuiii/FIT3179/main/2019.csv"
+    },
+    "width": 500,
+    "height": 500,
+    "title": "Can Money Buy Happiness?",
+    "mark": "circle",
+    "encoding": {
+      "y": {
+      "field": "Score",
+      "type": "quantitative",
+      "title": "Happiness Score"
+      },
+      "x": {
+      "field": "GDP per capita",
+      "type": "quantitative"
+      }
+    }
+  }
