@@ -6,16 +6,68 @@
         <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-    </head>
-
-    <body>
-        <div id="map"></div>
         <script type="text/javascript">
             let spec = "map.json"
             vegaEmbed('#map', spec).then( (result) => {
-
             }).catch(console.error);
+
+            spec = "top5countries.json"
+            vegaEmbed('#top5countries', spec).then( (result) => {
+            }).catch(console.error);
+
+            spec = "gpa_happiness.json"
+            vegaEmbed('#happiness', spec).then( (result) => {
+            }).catch(console.error);
+
         </script>
+    </head>
+
+    <!-- Importing Pure CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+
+    <body>
+        <div class="pure-g">
+            <div class="pure-u-1-3"></div>
+            <div id="title" class="pure-u-1-3">
+                <h1>World's Happiness Score Report</h1>
+            </div>
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1-3"></div>
+            <div id="title" class="pure-u-1-3">
+                <p>The world's happiness report is a landmark survey of the world's happiness level. This visualisation is aimed to look at the happiness level of different countries and relationship between different component of happiness score.</p>
+            </div>
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1-6"></div>
+
+            <div id="map" class="pure-u-1-2"></div>
+
+            <div class="pure-u-1-5">
+                <p> This is the map of showing the happiness score of different countries around the world. (notes: colour coding will be using yellow-grey diverging) </p>
+            </div>
+            
+        </div>
+
+        <div class="pure-g">
+
+            <div class="pure-u-1-6"></div>
+            <div class="pure-u-1-6">
+                <p> This stacked bar chart shows the top 5 happiest countries. (will make it stacked after todays consultation)</p>
+            </div>
+            <div id="top5countries" class="pure-u-1-4"></div>
+            <div id="happiness" class="pure-u-1-4"></div>
+            <div class="pure-u-1-6"></div>
+
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1-6"></div>
+            <div id="happiness" class="pure-u-1-2"></div>
+        </div>  
     </body>
+
 
 </html>
