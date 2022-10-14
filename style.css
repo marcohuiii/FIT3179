@@ -1,0 +1,14 @@
+body{
+    background-color: #fffaec;
+}
+
+#title{
+	text-align: center;
+}
+
+#text1{
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}

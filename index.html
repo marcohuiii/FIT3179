@@ -18,8 +18,8 @@
             spec = "gpa_happiness.json"
             vegaEmbed('#happiness', spec).then( (result) => {
             }).catch(console.error);
-
         </script>
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 
     <!-- Importing Pure CSS -->
@@ -27,15 +27,13 @@
 
     <body>
         <div class="pure-g">
-            <div class="pure-u-1-3"></div>
-            <div id="title" class="pure-u-1-3">
-                <h1>World's Happiness Score Report</h1>
+            <div id="title" class="pure-u-1">
+                <h1>World's Happiness Score</h1>
             </div>
         </div>
 
         <div class="pure-g">
-            <div class="pure-u-1-3"></div>
-            <div id="title" class="pure-u-1-3">
+            <div id="text1" class="pure-u-1">
                 <p>The world's happiness report is a landmark survey of the world's happiness level. This visualisation is aimed to look at the happiness level of different countries and relationship between different component of happiness score.</p>
             </div>
         </div>
