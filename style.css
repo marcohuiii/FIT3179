@@ -12,3 +12,7 @@ body{
     margin-right: 200px;
     text-align: center;
 }
+
+#map{
+    background-color: #fffaec;
+}
