@@ -1,0 +1,31 @@
+,Country or region,variable,value
+0,Finland,GDP per capita,1.34
+1,Denmark,GDP per capita,1.383
+2,Norway,GDP per capita,1.488
+3,Iceland,GDP per capita,1.38
+4,Netherlands,GDP per capita,1.396
+5,Finland,Social support,1.587
+6,Denmark,Social support,1.573
+7,Norway,Social support,1.582
+8,Iceland,Social support,1.624
+9,Netherlands,Social support,1.522
+10,Finland,Healthy life expectancy,0.986
+11,Denmark,Healthy life expectancy,0.996
+12,Norway,Healthy life expectancy,1.028
+13,Iceland,Healthy life expectancy,1.026
+14,Netherlands,Healthy life expectancy,0.999
+15,Finland,Freedom to make life choices,0.596
+16,Denmark,Freedom to make life choices,0.592
+17,Norway,Freedom to make life choices,0.603
+18,Iceland,Freedom to make life choices,0.591
+19,Netherlands,Freedom to make life choices,0.557
+20,Finland,Generosity,0.153
+21,Denmark,Generosity,0.252
+22,Norway,Generosity,0.271
+23,Iceland,Generosity,0.354
+24,Netherlands,Generosity,0.322
+25,Finland,Perceptions of corruption,0.393
+26,Denmark,Perceptions of corruption,0.41
+27,Norway,Perceptions of corruption,0.341
+28,Iceland,Perceptions of corruption,0.118
+29,Netherlands,Perceptions of corruption,0.298
