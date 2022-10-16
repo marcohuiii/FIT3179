@@ -1,21 +1,21 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": { 
-      "url": "https://raw.githubusercontent.com/marcohuiii/FIT3179/main/top5.csv"
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": { 
+    "url": "https://raw.githubusercontent.com/marcohuiii/FIT3179/main/top5.csv"
+  },
+  "width": 300,
+  "height": 300,
+  "mark": "bar",
+  "title": "Happiest Countries",
+  "encoding": {
+    "x": {
+      "field": "Score",
+      "type": "quantitative"
     },
-    "width": 300,
-    "height": 300,
-    "mark": "bar",
-    "title": "Happiest Countries",
-    "encoding": {
-      "x": {
-        "field": "Score",
-        "type": "quantitative"
-      },
-      "y": {
-        "field": "Country or region",
-        "type": "nominal",
-        "sort": "Overall rank"
-      }
+    "y": {
+      "field": "Country or region",
+      "type": "nominal",
+      "sort": "Overall rank"
     }
   }
+}
