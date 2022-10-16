@@ -1,0 +1,937 @@
+,Country or region,variable,value
+0,Finland,GDP per capita,1.34
+1,Denmark,GDP per capita,1.383
+2,Norway,GDP per capita,1.488
+3,Iceland,GDP per capita,1.38
+4,Netherlands,GDP per capita,1.396
+5,Switzerland,GDP per capita,1.452
+6,Sweden,GDP per capita,1.387
+7,New Zealand,GDP per capita,1.303
+8,Canada,GDP per capita,1.365
+9,Austria,GDP per capita,1.376
+10,Australia,GDP per capita,1.372
+11,Costa Rica,GDP per capita,1.034
+12,Israel,GDP per capita,1.276
+13,Luxembourg,GDP per capita,1.609
+14,United Kingdom,GDP per capita,1.333
+15,Ireland,GDP per capita,1.499
+16,Germany,GDP per capita,1.373
+17,Belgium,GDP per capita,1.356
+18,United States of America,GDP per capita,1.433
+19,Czech Republic,GDP per capita,1.269
+20,United Arab Emirates,GDP per capita,1.503
+21,Malta,GDP per capita,1.3
+22,Mexico,GDP per capita,1.07
+23,France,GDP per capita,1.324
+24,Taiwan,GDP per capita,1.368
+25,Chile,GDP per capita,1.159
+26,Guatemala,GDP per capita,0.8
+27,Saudi Arabia,GDP per capita,1.403
+28,Qatar,GDP per capita,1.684
+29,Spain,GDP per capita,1.286
+30,Panama,GDP per capita,1.149
+31,Brazil,GDP per capita,1.004
+32,Uruguay,GDP per capita,1.124
+33,Singapore,GDP per capita,1.572
+34,El Salvador,GDP per capita,0.794
+35,Italy,GDP per capita,1.294
+36,Bahrain,GDP per capita,1.362
+37,Slovakia,GDP per capita,1.246
+38,Trinidad & Tobago,GDP per capita,1.231
+39,Poland,GDP per capita,1.206
+40,Uzbekistan,GDP per capita,0.745
+41,Lithuania,GDP per capita,1.238
+42,Colombia,GDP per capita,0.985
+43,Slovenia,GDP per capita,1.258
+44,Nicaragua,GDP per capita,0.694
+45,Kosovo,GDP per capita,0.882
+46,Argentina,GDP per capita,1.092
+47,Romania,GDP per capita,1.162
+48,Cyprus,GDP per capita,1.263
+49,Ecuador,GDP per capita,0.912
+50,Kuwait,GDP per capita,1.5
+51,Thailand,GDP per capita,1.05
+52,Latvia,GDP per capita,1.187
+53,South Korea,GDP per capita,1.301
+54,Estonia,GDP per capita,1.237
+55,Jamaica,GDP per capita,0.831
+56,Mauritius,GDP per capita,1.12
+57,Japan,GDP per capita,1.327
+58,Honduras,GDP per capita,0.642
+59,Kazakhstan,GDP per capita,1.173
+60,Bolivia,GDP per capita,0.776
+61,Hungary,GDP per capita,1.201
+62,Paraguay,GDP per capita,0.855
+63,Northern Cyprus,GDP per capita,1.263
+64,Peru,GDP per capita,0.96
+65,Portugal,GDP per capita,1.221
+66,Pakistan,GDP per capita,0.677
+67,Russia,GDP per capita,1.183
+68,Philippines,GDP per capita,0.807
+69,Serbia,GDP per capita,1.004
+70,Moldova,GDP per capita,0.685
+71,Libya,GDP per capita,1.044
+72,Montenegro,GDP per capita,1.051
+73,Tajikistan,GDP per capita,0.493
+74,Croatia,GDP per capita,1.155
+75,Hong Kong,GDP per capita,1.438
+76,Dominican Republic,GDP per capita,1.015
+77,Bosnia and Herzegovina,GDP per capita,0.945
+78,Turkey,GDP per capita,1.183
+79,Malaysia,GDP per capita,1.221
+80,Belarus,GDP per capita,1.067
+81,Greece,GDP per capita,1.181
+82,Mongolia,GDP per capita,0.948
+83,North Macedonia,GDP per capita,0.983
+84,Nigeria,GDP per capita,0.696
+85,Kyrgyzstan,GDP per capita,0.551
+86,Turkmenistan,GDP per capita,1.052
+87,Algeria,GDP per capita,1.002
+88,Morocco,GDP per capita,0.801
+89,Azerbaijan,GDP per capita,1.043
+90,Lebanon,GDP per capita,0.987
+91,Indonesia,GDP per capita,0.931
+92,China,GDP per capita,1.029
+93,Vietnam,GDP per capita,0.741
+94,Bhutan,GDP per capita,0.813
+95,Cameroon,GDP per capita,0.549
+96,Bulgaria,GDP per capita,1.092
+97,Ghana,GDP per capita,0.611
+98,Ivory Coast,GDP per capita,0.569
+99,Nepal,GDP per capita,0.446
+100,Jordan,GDP per capita,0.837
+101,Benin,GDP per capita,0.393
+102,Congo (Brazzaville),GDP per capita,0.673
+103,Gabon,GDP per capita,1.057
+104,Laos,GDP per capita,0.764
+105,South Africa,GDP per capita,0.96
+106,Albania,GDP per capita,0.947
+107,Venezuela,GDP per capita,0.96
+108,Cambodia,GDP per capita,0.574
+109,Palestinian Territories,GDP per capita,0.657
+110,Senegal,GDP per capita,0.45
+111,Somalia,GDP per capita,0.0
+112,Namibia,GDP per capita,0.879
+113,Niger,GDP per capita,0.138
+114,Burkina Faso,GDP per capita,0.331
+115,Armenia,GDP per capita,0.85
+116,Iran,GDP per capita,1.1
+117,Guinea,GDP per capita,0.38
+118,Georgia,GDP per capita,0.886
+119,Gambia,GDP per capita,0.308
+120,Kenya,GDP per capita,0.512
+121,Mauritania,GDP per capita,0.57
+122,Mozambique,GDP per capita,0.204
+123,Tunisia,GDP per capita,0.921
+124,Bangladesh,GDP per capita,0.562
+125,Iraq,GDP per capita,1.043
+126,Congo (Kinshasa),GDP per capita,0.094
+127,Mali,GDP per capita,0.385
+128,Sierra Leone,GDP per capita,0.268
+129,Sri Lanka,GDP per capita,0.949
+130,Myanmar,GDP per capita,0.71
+131,Chad,GDP per capita,0.35
+132,Ukraine,GDP per capita,0.82
+133,Ethiopia,GDP per capita,0.336
+134,Swaziland,GDP per capita,0.811
+135,Uganda,GDP per capita,0.332
+136,Egypt,GDP per capita,0.913
+137,Zambia,GDP per capita,0.578
+138,Togo,GDP per capita,0.275
+139,India,GDP per capita,0.755
+140,Liberia,GDP per capita,0.073
+141,Comoros,GDP per capita,0.274
+142,Madagascar,GDP per capita,0.274
+143,Lesotho,GDP per capita,0.489
+144,Burundi,GDP per capita,0.046
+145,Zimbabwe,GDP per capita,0.366
+146,Haiti,GDP per capita,0.323
+147,Botswana,GDP per capita,1.041
+148,Syria,GDP per capita,0.619
+149,Malawi,GDP per capita,0.191
+150,Yemen,GDP per capita,0.287
+151,Rwanda,GDP per capita,0.359
+152,Tanzania,GDP per capita,0.476
+153,Afghanistan,GDP per capita,0.35
+154,Central African Republic,GDP per capita,0.026
+155,South Sudan,GDP per capita,0.306
+156,Finland,Social support,1.587
+157,Denmark,Social support,1.573
+158,Norway,Social support,1.582
+159,Iceland,Social support,1.624
+160,Netherlands,Social support,1.522
+161,Switzerland,Social support,1.526
+162,Sweden,Social support,1.487
+163,New Zealand,Social support,1.557
+164,Canada,Social support,1.505
+165,Austria,Social support,1.475
+166,Australia,Social support,1.548
+167,Costa Rica,Social support,1.441
+168,Israel,Social support,1.455
+169,Luxembourg,Social support,1.479
+170,United Kingdom,Social support,1.538
+171,Ireland,Social support,1.553
+172,Germany,Social support,1.454
+173,Belgium,Social support,1.504
+174,United States of America,Social support,1.457
+175,Czech Republic,Social support,1.487
+176,United Arab Emirates,Social support,1.31
+177,Malta,Social support,1.52
+178,Mexico,Social support,1.323
+179,France,Social support,1.472
+180,Taiwan,Social support,1.43
+181,Chile,Social support,1.369
+182,Guatemala,Social support,1.269
+183,Saudi Arabia,Social support,1.357
+184,Qatar,Social support,1.313
+185,Spain,Social support,1.484
+186,Panama,Social support,1.442
+187,Brazil,Social support,1.439
+188,Uruguay,Social support,1.465
+189,Singapore,Social support,1.463
+190,El Salvador,Social support,1.242
+191,Italy,Social support,1.488
+192,Bahrain,Social support,1.368
+193,Slovakia,Social support,1.504
+194,Trinidad & Tobago,Social support,1.477
+195,Poland,Social support,1.438
+196,Uzbekistan,Social support,1.529
+197,Lithuania,Social support,1.515
+198,Colombia,Social support,1.41
+199,Slovenia,Social support,1.523
+200,Nicaragua,Social support,1.325
+201,Kosovo,Social support,1.232
+202,Argentina,Social support,1.432
+203,Romania,Social support,1.232
+204,Cyprus,Social support,1.223
+205,Ecuador,Social support,1.312
+206,Kuwait,Social support,1.319
+207,Thailand,Social support,1.409
+208,Latvia,Social support,1.465
+209,South Korea,Social support,1.219
+210,Estonia,Social support,1.528
+211,Jamaica,Social support,1.478
+212,Mauritius,Social support,1.402
+213,Japan,Social support,1.419
+214,Honduras,Social support,1.236
+215,Kazakhstan,Social support,1.508
+216,Bolivia,Social support,1.209
+217,Hungary,Social support,1.41
+218,Paraguay,Social support,1.475
+219,Northern Cyprus,Social support,1.252
+220,Peru,Social support,1.274
+221,Portugal,Social support,1.431
+222,Pakistan,Social support,0.886
+223,Russia,Social support,1.452
+224,Philippines,Social support,1.293
+225,Serbia,Social support,1.383
+226,Moldova,Social support,1.328
+227,Libya,Social support,1.303
+228,Montenegro,Social support,1.361
+229,Tajikistan,Social support,1.098
+230,Croatia,Social support,1.266
+231,Hong Kong,Social support,1.277
+232,Dominican Republic,Social support,1.401
+233,Bosnia and Herzegovina,Social support,1.212
+234,Turkey,Social support,1.36
+235,Malaysia,Social support,1.171
+236,Belarus,Social support,1.465
+237,Greece,Social support,1.156
+238,Mongolia,Social support,1.531
+239,North Macedonia,Social support,1.294
+240,Nigeria,Social support,1.111
+241,Kyrgyzstan,Social support,1.438
+242,Turkmenistan,Social support,1.538
+243,Algeria,Social support,1.16
+244,Morocco,Social support,0.782
+245,Azerbaijan,Social support,1.147
+246,Lebanon,Social support,1.224
+247,Indonesia,Social support,1.203
+248,China,Social support,1.125
+249,Vietnam,Social support,1.346
+250,Bhutan,Social support,1.321
+251,Cameroon,Social support,0.91
+252,Bulgaria,Social support,1.513
+253,Ghana,Social support,0.868
+254,Ivory Coast,Social support,0.808
+255,Nepal,Social support,1.226
+256,Jordan,Social support,1.225
+257,Benin,Social support,0.437
+258,Congo (Brazzaville),Social support,0.799
+259,Gabon,Social support,1.183
+260,Laos,Social support,1.03
+261,South Africa,Social support,1.351
+262,Albania,Social support,0.848
+263,Venezuela,Social support,1.427
+264,Cambodia,Social support,1.122
+265,Palestinian Territories,Social support,1.247
+266,Senegal,Social support,1.134
+267,Somalia,Social support,0.698
+268,Namibia,Social support,1.313
+269,Niger,Social support,0.774
+270,Burkina Faso,Social support,1.056
+271,Armenia,Social support,1.055
+272,Iran,Social support,0.842
+273,Guinea,Social support,0.829
+274,Georgia,Social support,0.666
+275,Gambia,Social support,0.939
+276,Kenya,Social support,0.983
+277,Mauritania,Social support,1.167
+278,Mozambique,Social support,0.986
+279,Tunisia,Social support,1.0
+280,Bangladesh,Social support,0.928
+281,Iraq,Social support,0.98
+282,Congo (Kinshasa),Social support,1.125
+283,Mali,Social support,1.105
+284,Sierra Leone,Social support,0.841
+285,Sri Lanka,Social support,1.265
+286,Myanmar,Social support,1.181
+287,Chad,Social support,0.766
+288,Ukraine,Social support,1.39
+289,Ethiopia,Social support,1.033
+290,Swaziland,Social support,1.149
+291,Uganda,Social support,1.069
+292,Egypt,Social support,1.039
+293,Zambia,Social support,1.058
+294,Togo,Social support,0.572
+295,India,Social support,0.765
+296,Liberia,Social support,0.922
+297,Comoros,Social support,0.757
+298,Madagascar,Social support,0.916
+299,Lesotho,Social support,1.169
+300,Burundi,Social support,0.447
+301,Zimbabwe,Social support,1.114
+302,Haiti,Social support,0.688
+303,Botswana,Social support,1.145
+304,Syria,Social support,0.378
+305,Malawi,Social support,0.56
+306,Yemen,Social support,1.163
+307,Rwanda,Social support,0.711
+308,Tanzania,Social support,0.885
+309,Afghanistan,Social support,0.517
+310,Central African Republic,Social support,0.0
+311,South Sudan,Social support,0.575
+312,Finland,Healthy life expectancy,0.986
+313,Denmark,Healthy life expectancy,0.996
+314,Norway,Healthy life expectancy,1.028
+315,Iceland,Healthy life expectancy,1.026
+316,Netherlands,Healthy life expectancy,0.999
+317,Switzerland,Healthy life expectancy,1.052
+318,Sweden,Healthy life expectancy,1.009
+319,New Zealand,Healthy life expectancy,1.026
+320,Canada,Healthy life expectancy,1.039
+321,Austria,Healthy life expectancy,1.016
+322,Australia,Healthy life expectancy,1.036
+323,Costa Rica,Healthy life expectancy,0.963
+324,Israel,Healthy life expectancy,1.029
+325,Luxembourg,Healthy life expectancy,1.012
+326,United Kingdom,Healthy life expectancy,0.996
+327,Ireland,Healthy life expectancy,0.999
+328,Germany,Healthy life expectancy,0.987
+329,Belgium,Healthy life expectancy,0.986
+330,United States of America,Healthy life expectancy,0.874
+331,Czech Republic,Healthy life expectancy,0.92
+332,United Arab Emirates,Healthy life expectancy,0.825
+333,Malta,Healthy life expectancy,0.999
+334,Mexico,Healthy life expectancy,0.861
+335,France,Healthy life expectancy,1.045
+336,Taiwan,Healthy life expectancy,0.914
+337,Chile,Healthy life expectancy,0.92
+338,Guatemala,Healthy life expectancy,0.746
+339,Saudi Arabia,Healthy life expectancy,0.795
+340,Qatar,Healthy life expectancy,0.871
+341,Spain,Healthy life expectancy,1.062
+342,Panama,Healthy life expectancy,0.91
+343,Brazil,Healthy life expectancy,0.802
+344,Uruguay,Healthy life expectancy,0.891
+345,Singapore,Healthy life expectancy,1.141
+346,El Salvador,Healthy life expectancy,0.789
+347,Italy,Healthy life expectancy,1.039
+348,Bahrain,Healthy life expectancy,0.871
+349,Slovakia,Healthy life expectancy,0.881
+350,Trinidad & Tobago,Healthy life expectancy,0.713
+351,Poland,Healthy life expectancy,0.884
+352,Uzbekistan,Healthy life expectancy,0.756
+353,Lithuania,Healthy life expectancy,0.818
+354,Colombia,Healthy life expectancy,0.841
+355,Slovenia,Healthy life expectancy,0.953
+356,Nicaragua,Healthy life expectancy,0.835
+357,Kosovo,Healthy life expectancy,0.758
+358,Argentina,Healthy life expectancy,0.881
+359,Romania,Healthy life expectancy,0.825
+360,Cyprus,Healthy life expectancy,1.042
+361,Ecuador,Healthy life expectancy,0.868
+362,Kuwait,Healthy life expectancy,0.808
+363,Thailand,Healthy life expectancy,0.828
+364,Latvia,Healthy life expectancy,0.812
+365,South Korea,Healthy life expectancy,1.036
+366,Estonia,Healthy life expectancy,0.874
+367,Jamaica,Healthy life expectancy,0.831
+368,Mauritius,Healthy life expectancy,0.798
+369,Japan,Healthy life expectancy,1.088
+370,Honduras,Healthy life expectancy,0.828
+371,Kazakhstan,Healthy life expectancy,0.729
+372,Bolivia,Healthy life expectancy,0.706
+373,Hungary,Healthy life expectancy,0.828
+374,Paraguay,Healthy life expectancy,0.777
+375,Northern Cyprus,Healthy life expectancy,1.042
+376,Peru,Healthy life expectancy,0.854
+377,Portugal,Healthy life expectancy,0.999
+378,Pakistan,Healthy life expectancy,0.535
+379,Russia,Healthy life expectancy,0.726
+380,Philippines,Healthy life expectancy,0.657
+381,Serbia,Healthy life expectancy,0.854
+382,Moldova,Healthy life expectancy,0.739
+383,Libya,Healthy life expectancy,0.673
+384,Montenegro,Healthy life expectancy,0.871
+385,Tajikistan,Healthy life expectancy,0.718
+386,Croatia,Healthy life expectancy,0.914
+387,Hong Kong,Healthy life expectancy,1.122
+388,Dominican Republic,Healthy life expectancy,0.779
+389,Bosnia and Herzegovina,Healthy life expectancy,0.845
+390,Turkey,Healthy life expectancy,0.808
+391,Malaysia,Healthy life expectancy,0.828
+392,Belarus,Healthy life expectancy,0.789
+393,Greece,Healthy life expectancy,0.999
+394,Mongolia,Healthy life expectancy,0.667
+395,North Macedonia,Healthy life expectancy,0.838
+396,Nigeria,Healthy life expectancy,0.245
+397,Kyrgyzstan,Healthy life expectancy,0.723
+398,Turkmenistan,Healthy life expectancy,0.657
+399,Algeria,Healthy life expectancy,0.785
+400,Morocco,Healthy life expectancy,0.782
+401,Azerbaijan,Healthy life expectancy,0.769
+402,Lebanon,Healthy life expectancy,0.815
+403,Indonesia,Healthy life expectancy,0.66
+404,China,Healthy life expectancy,0.893
+405,Vietnam,Healthy life expectancy,0.851
+406,Bhutan,Healthy life expectancy,0.604
+407,Cameroon,Healthy life expectancy,0.331
+408,Bulgaria,Healthy life expectancy,0.815
+409,Ghana,Healthy life expectancy,0.486
+410,Ivory Coast,Healthy life expectancy,0.232
+411,Nepal,Healthy life expectancy,0.677
+412,Jordan,Healthy life expectancy,0.815
+413,Benin,Healthy life expectancy,0.397
+414,Congo (Brazzaville),Healthy life expectancy,0.508
+415,Gabon,Healthy life expectancy,0.571
+416,Laos,Healthy life expectancy,0.551
+417,South Africa,Healthy life expectancy,0.469
+418,Albania,Healthy life expectancy,0.874
+419,Venezuela,Healthy life expectancy,0.805
+420,Cambodia,Healthy life expectancy,0.637
+421,Palestinian Territories,Healthy life expectancy,0.672
+422,Senegal,Healthy life expectancy,0.571
+423,Somalia,Healthy life expectancy,0.268
+424,Namibia,Healthy life expectancy,0.477
+425,Niger,Healthy life expectancy,0.366
+426,Burkina Faso,Healthy life expectancy,0.38
+427,Armenia,Healthy life expectancy,0.815
+428,Iran,Healthy life expectancy,0.785
+429,Guinea,Healthy life expectancy,0.375
+430,Georgia,Healthy life expectancy,0.752
+431,Gambia,Healthy life expectancy,0.428
+432,Kenya,Healthy life expectancy,0.581
+433,Mauritania,Healthy life expectancy,0.489
+434,Mozambique,Healthy life expectancy,0.39
+435,Tunisia,Healthy life expectancy,0.815
+436,Bangladesh,Healthy life expectancy,0.723
+437,Iraq,Healthy life expectancy,0.574
+438,Congo (Kinshasa),Healthy life expectancy,0.357
+439,Mali,Healthy life expectancy,0.308
+440,Sierra Leone,Healthy life expectancy,0.242
+441,Sri Lanka,Healthy life expectancy,0.831
+442,Myanmar,Healthy life expectancy,0.555
+443,Chad,Healthy life expectancy,0.192
+444,Ukraine,Healthy life expectancy,0.739
+445,Ethiopia,Healthy life expectancy,0.532
+446,Swaziland,Healthy life expectancy,0.0
+447,Uganda,Healthy life expectancy,0.443
+448,Egypt,Healthy life expectancy,0.644
+449,Zambia,Healthy life expectancy,0.426
+450,Togo,Healthy life expectancy,0.41
+451,India,Healthy life expectancy,0.588
+452,Liberia,Healthy life expectancy,0.443
+453,Comoros,Healthy life expectancy,0.505
+454,Madagascar,Healthy life expectancy,0.555
+455,Lesotho,Healthy life expectancy,0.168
+456,Burundi,Healthy life expectancy,0.38
+457,Zimbabwe,Healthy life expectancy,0.433
+458,Haiti,Healthy life expectancy,0.449
+459,Botswana,Healthy life expectancy,0.538
+460,Syria,Healthy life expectancy,0.44
+461,Malawi,Healthy life expectancy,0.495
+462,Yemen,Healthy life expectancy,0.463
+463,Rwanda,Healthy life expectancy,0.614
+464,Tanzania,Healthy life expectancy,0.499
+465,Afghanistan,Healthy life expectancy,0.361
+466,Central African Republic,Healthy life expectancy,0.105
+467,South Sudan,Healthy life expectancy,0.295
+468,Finland,Freedom to make life choices,0.596
+469,Denmark,Freedom to make life choices,0.592
+470,Norway,Freedom to make life choices,0.603
+471,Iceland,Freedom to make life choices,0.591
+472,Netherlands,Freedom to make life choices,0.557
+473,Switzerland,Freedom to make life choices,0.572
+474,Sweden,Freedom to make life choices,0.574
+475,New Zealand,Freedom to make life choices,0.585
+476,Canada,Freedom to make life choices,0.584
+477,Austria,Freedom to make life choices,0.532
+478,Australia,Freedom to make life choices,0.557
+479,Costa Rica,Freedom to make life choices,0.558
+480,Israel,Freedom to make life choices,0.371
+481,Luxembourg,Freedom to make life choices,0.526
+482,United Kingdom,Freedom to make life choices,0.45
+483,Ireland,Freedom to make life choices,0.516
+484,Germany,Freedom to make life choices,0.495
+485,Belgium,Freedom to make life choices,0.473
+486,United States of America,Freedom to make life choices,0.454
+487,Czech Republic,Freedom to make life choices,0.457
+488,United Arab Emirates,Freedom to make life choices,0.598
+489,Malta,Freedom to make life choices,0.564
+490,Mexico,Freedom to make life choices,0.433
+491,France,Freedom to make life choices,0.436
+492,Taiwan,Freedom to make life choices,0.351
+493,Chile,Freedom to make life choices,0.357
+494,Guatemala,Freedom to make life choices,0.535
+495,Saudi Arabia,Freedom to make life choices,0.439
+496,Qatar,Freedom to make life choices,0.555
+497,Spain,Freedom to make life choices,0.362
+498,Panama,Freedom to make life choices,0.516
+499,Brazil,Freedom to make life choices,0.39
+500,Uruguay,Freedom to make life choices,0.523
+501,Singapore,Freedom to make life choices,0.556
+502,El Salvador,Freedom to make life choices,0.43
+503,Italy,Freedom to make life choices,0.231
+504,Bahrain,Freedom to make life choices,0.536
+505,Slovakia,Freedom to make life choices,0.334
+506,Trinidad & Tobago,Freedom to make life choices,0.489
+507,Poland,Freedom to make life choices,0.483
+508,Uzbekistan,Freedom to make life choices,0.631
+509,Lithuania,Freedom to make life choices,0.291
+510,Colombia,Freedom to make life choices,0.47
+511,Slovenia,Freedom to make life choices,0.564
+512,Nicaragua,Freedom to make life choices,0.435
+513,Kosovo,Freedom to make life choices,0.489
+514,Argentina,Freedom to make life choices,0.471
+515,Romania,Freedom to make life choices,0.462
+516,Cyprus,Freedom to make life choices,0.406
+517,Ecuador,Freedom to make life choices,0.498
+518,Kuwait,Freedom to make life choices,0.493
+519,Thailand,Freedom to make life choices,0.557
+520,Latvia,Freedom to make life choices,0.264
+521,South Korea,Freedom to make life choices,0.159
+522,Estonia,Freedom to make life choices,0.495
+523,Jamaica,Freedom to make life choices,0.49
+524,Mauritius,Freedom to make life choices,0.498
+525,Japan,Freedom to make life choices,0.445
+526,Honduras,Freedom to make life choices,0.507
+527,Kazakhstan,Freedom to make life choices,0.41
+528,Bolivia,Freedom to make life choices,0.511
+529,Hungary,Freedom to make life choices,0.199
+530,Paraguay,Freedom to make life choices,0.514
+531,Northern Cyprus,Freedom to make life choices,0.417
+532,Peru,Freedom to make life choices,0.455
+533,Portugal,Freedom to make life choices,0.508
+534,Pakistan,Freedom to make life choices,0.313
+535,Russia,Freedom to make life choices,0.334
+536,Philippines,Freedom to make life choices,0.558
+537,Serbia,Freedom to make life choices,0.282
+538,Moldova,Freedom to make life choices,0.245
+539,Libya,Freedom to make life choices,0.416
+540,Montenegro,Freedom to make life choices,0.197
+541,Tajikistan,Freedom to make life choices,0.389
+542,Croatia,Freedom to make life choices,0.296
+543,Hong Kong,Freedom to make life choices,0.44
+544,Dominican Republic,Freedom to make life choices,0.497
+545,Bosnia and Herzegovina,Freedom to make life choices,0.212
+546,Turkey,Freedom to make life choices,0.195
+547,Malaysia,Freedom to make life choices,0.508
+548,Belarus,Freedom to make life choices,0.235
+549,Greece,Freedom to make life choices,0.067
+550,Mongolia,Freedom to make life choices,0.317
+551,North Macedonia,Freedom to make life choices,0.345
+552,Nigeria,Freedom to make life choices,0.426
+553,Kyrgyzstan,Freedom to make life choices,0.508
+554,Turkmenistan,Freedom to make life choices,0.394
+555,Algeria,Freedom to make life choices,0.086
+556,Morocco,Freedom to make life choices,0.418
+557,Azerbaijan,Freedom to make life choices,0.351
+558,Lebanon,Freedom to make life choices,0.216
+559,Indonesia,Freedom to make life choices,0.491
+560,China,Freedom to make life choices,0.521
+561,Vietnam,Freedom to make life choices,0.543
+562,Bhutan,Freedom to make life choices,0.457
+563,Cameroon,Freedom to make life choices,0.381
+564,Bulgaria,Freedom to make life choices,0.311
+565,Ghana,Freedom to make life choices,0.381
+566,Ivory Coast,Freedom to make life choices,0.352
+567,Nepal,Freedom to make life choices,0.439
+568,Jordan,Freedom to make life choices,0.383
+569,Benin,Freedom to make life choices,0.349
+570,Congo (Brazzaville),Freedom to make life choices,0.372
+571,Gabon,Freedom to make life choices,0.295
+572,Laos,Freedom to make life choices,0.547
+573,South Africa,Freedom to make life choices,0.389
+574,Albania,Freedom to make life choices,0.383
+575,Venezuela,Freedom to make life choices,0.154
+576,Cambodia,Freedom to make life choices,0.609
+577,Palestinian Territories,Freedom to make life choices,0.225
+578,Senegal,Freedom to make life choices,0.292
+579,Somalia,Freedom to make life choices,0.559
+580,Namibia,Freedom to make life choices,0.401
+581,Niger,Freedom to make life choices,0.318
+582,Burkina Faso,Freedom to make life choices,0.255
+583,Armenia,Freedom to make life choices,0.283
+584,Iran,Freedom to make life choices,0.305
+585,Guinea,Freedom to make life choices,0.332
+586,Georgia,Freedom to make life choices,0.346
+587,Gambia,Freedom to make life choices,0.382
+588,Kenya,Freedom to make life choices,0.431
+589,Mauritania,Freedom to make life choices,0.066
+590,Mozambique,Freedom to make life choices,0.494
+591,Tunisia,Freedom to make life choices,0.167
+592,Bangladesh,Freedom to make life choices,0.527
+593,Iraq,Freedom to make life choices,0.241
+594,Congo (Kinshasa),Freedom to make life choices,0.269
+595,Mali,Freedom to make life choices,0.327
+596,Sierra Leone,Freedom to make life choices,0.309
+597,Sri Lanka,Freedom to make life choices,0.47
+598,Myanmar,Freedom to make life choices,0.525
+599,Chad,Freedom to make life choices,0.174
+600,Ukraine,Freedom to make life choices,0.178
+601,Ethiopia,Freedom to make life choices,0.344
+602,Swaziland,Freedom to make life choices,0.313
+603,Uganda,Freedom to make life choices,0.356
+604,Egypt,Freedom to make life choices,0.241
+605,Zambia,Freedom to make life choices,0.431
+606,Togo,Freedom to make life choices,0.293
+607,India,Freedom to make life choices,0.498
+608,Liberia,Freedom to make life choices,0.37
+609,Comoros,Freedom to make life choices,0.142
+610,Madagascar,Freedom to make life choices,0.148
+611,Lesotho,Freedom to make life choices,0.359
+612,Burundi,Freedom to make life choices,0.22
+613,Zimbabwe,Freedom to make life choices,0.361
+614,Haiti,Freedom to make life choices,0.026
+615,Botswana,Freedom to make life choices,0.455
+616,Syria,Freedom to make life choices,0.013
+617,Malawi,Freedom to make life choices,0.443
+618,Yemen,Freedom to make life choices,0.143
+619,Rwanda,Freedom to make life choices,0.555
+620,Tanzania,Freedom to make life choices,0.417
+621,Afghanistan,Freedom to make life choices,0.0
+622,Central African Republic,Freedom to make life choices,0.225
+623,South Sudan,Freedom to make life choices,0.01
+624,Finland,Generosity,0.153
+625,Denmark,Generosity,0.252
+626,Norway,Generosity,0.271
+627,Iceland,Generosity,0.354
+628,Netherlands,Generosity,0.322
+629,Switzerland,Generosity,0.263
+630,Sweden,Generosity,0.267
+631,New Zealand,Generosity,0.33
+632,Canada,Generosity,0.285
+633,Austria,Generosity,0.244
+634,Australia,Generosity,0.332
+635,Costa Rica,Generosity,0.144
+636,Israel,Generosity,0.261
+637,Luxembourg,Generosity,0.194
+638,United Kingdom,Generosity,0.348
+639,Ireland,Generosity,0.298
+640,Germany,Generosity,0.261
+641,Belgium,Generosity,0.16
+642,United States of America,Generosity,0.28
+643,Czech Republic,Generosity,0.046
+644,United Arab Emirates,Generosity,0.262
+645,Malta,Generosity,0.375
+646,Mexico,Generosity,0.074
+647,France,Generosity,0.111
+648,Taiwan,Generosity,0.242
+649,Chile,Generosity,0.187
+650,Guatemala,Generosity,0.175
+651,Saudi Arabia,Generosity,0.08
+652,Qatar,Generosity,0.22
+653,Spain,Generosity,0.153
+654,Panama,Generosity,0.109
+655,Brazil,Generosity,0.099
+656,Uruguay,Generosity,0.127
+657,Singapore,Generosity,0.271
+658,El Salvador,Generosity,0.093
+659,Italy,Generosity,0.158
+660,Bahrain,Generosity,0.255
+661,Slovakia,Generosity,0.121
+662,Trinidad & Tobago,Generosity,0.185
+663,Poland,Generosity,0.117
+664,Uzbekistan,Generosity,0.322
+665,Lithuania,Generosity,0.043
+666,Colombia,Generosity,0.099
+667,Slovenia,Generosity,0.144
+668,Nicaragua,Generosity,0.2
+669,Kosovo,Generosity,0.262
+670,Argentina,Generosity,0.066
+671,Romania,Generosity,0.083
+672,Cyprus,Generosity,0.19
+673,Ecuador,Generosity,0.126
+674,Kuwait,Generosity,0.142
+675,Thailand,Generosity,0.359
+676,Latvia,Generosity,0.075
+677,South Korea,Generosity,0.175
+678,Estonia,Generosity,0.103
+679,Jamaica,Generosity,0.107
+680,Mauritius,Generosity,0.215
+681,Japan,Generosity,0.069
+682,Honduras,Generosity,0.246
+683,Kazakhstan,Generosity,0.146
+684,Bolivia,Generosity,0.137
+685,Hungary,Generosity,0.081
+686,Paraguay,Generosity,0.184
+687,Northern Cyprus,Generosity,0.191
+688,Peru,Generosity,0.083
+689,Portugal,Generosity,0.047
+690,Pakistan,Generosity,0.22
+691,Russia,Generosity,0.082
+692,Philippines,Generosity,0.117
+693,Serbia,Generosity,0.137
+694,Moldova,Generosity,0.181
+695,Libya,Generosity,0.133
+696,Montenegro,Generosity,0.142
+697,Tajikistan,Generosity,0.23
+698,Croatia,Generosity,0.119
+699,Hong Kong,Generosity,0.258
+700,Dominican Republic,Generosity,0.113
+701,Bosnia and Herzegovina,Generosity,0.263
+702,Turkey,Generosity,0.083
+703,Malaysia,Generosity,0.26
+704,Belarus,Generosity,0.094
+705,Greece,Generosity,0.0
+706,Mongolia,Generosity,0.235
+707,North Macedonia,Generosity,0.185
+708,Nigeria,Generosity,0.215
+709,Kyrgyzstan,Generosity,0.3
+710,Turkmenistan,Generosity,0.244
+711,Algeria,Generosity,0.073
+712,Morocco,Generosity,0.036
+713,Azerbaijan,Generosity,0.035
+714,Lebanon,Generosity,0.166
+715,Indonesia,Generosity,0.498
+716,China,Generosity,0.058
+717,Vietnam,Generosity,0.147
+718,Bhutan,Generosity,0.37
+719,Cameroon,Generosity,0.187
+720,Bulgaria,Generosity,0.081
+721,Ghana,Generosity,0.245
+722,Ivory Coast,Generosity,0.154
+723,Nepal,Generosity,0.285
+724,Jordan,Generosity,0.11
+725,Benin,Generosity,0.175
+726,Congo (Brazzaville),Generosity,0.105
+727,Gabon,Generosity,0.043
+728,Laos,Generosity,0.266
+729,South Africa,Generosity,0.13
+730,Albania,Generosity,0.178
+731,Venezuela,Generosity,0.064
+732,Cambodia,Generosity,0.232
+733,Palestinian Territories,Generosity,0.103
+734,Senegal,Generosity,0.153
+735,Somalia,Generosity,0.243
+736,Namibia,Generosity,0.07
+737,Niger,Generosity,0.188
+738,Burkina Faso,Generosity,0.177
+739,Armenia,Generosity,0.095
+740,Iran,Generosity,0.27
+741,Guinea,Generosity,0.207
+742,Georgia,Generosity,0.043
+743,Gambia,Generosity,0.269
+744,Kenya,Generosity,0.372
+745,Mauritania,Generosity,0.106
+746,Mozambique,Generosity,0.197
+747,Tunisia,Generosity,0.059
+748,Bangladesh,Generosity,0.166
+749,Iraq,Generosity,0.148
+750,Congo (Kinshasa),Generosity,0.212
+751,Mali,Generosity,0.153
+752,Sierra Leone,Generosity,0.252
+753,Sri Lanka,Generosity,0.244
+754,Myanmar,Generosity,0.566
+755,Chad,Generosity,0.198
+756,Ukraine,Generosity,0.187
+757,Ethiopia,Generosity,0.209
+758,Swaziland,Generosity,0.074
+759,Uganda,Generosity,0.252
+760,Egypt,Generosity,0.076
+761,Zambia,Generosity,0.247
+762,Togo,Generosity,0.177
+763,India,Generosity,0.2
+764,Liberia,Generosity,0.233
+765,Comoros,Generosity,0.275
+766,Madagascar,Generosity,0.169
+767,Lesotho,Generosity,0.107
+768,Burundi,Generosity,0.176
+769,Zimbabwe,Generosity,0.151
+770,Haiti,Generosity,0.419
+771,Botswana,Generosity,0.025
+772,Syria,Generosity,0.331
+773,Malawi,Generosity,0.218
+774,Yemen,Generosity,0.108
+775,Rwanda,Generosity,0.217
+776,Tanzania,Generosity,0.276
+777,Afghanistan,Generosity,0.158
+778,Central African Republic,Generosity,0.235
+779,South Sudan,Generosity,0.202
+780,Finland,Perceptions of corruption,0.393
+781,Denmark,Perceptions of corruption,0.41
+782,Norway,Perceptions of corruption,0.341
+783,Iceland,Perceptions of corruption,0.118
+784,Netherlands,Perceptions of corruption,0.298
+785,Switzerland,Perceptions of corruption,0.343
+786,Sweden,Perceptions of corruption,0.373
+787,New Zealand,Perceptions of corruption,0.38
+788,Canada,Perceptions of corruption,0.308
+789,Austria,Perceptions of corruption,0.226
+790,Australia,Perceptions of corruption,0.29
+791,Costa Rica,Perceptions of corruption,0.093
+792,Israel,Perceptions of corruption,0.082
+793,Luxembourg,Perceptions of corruption,0.316
+794,United Kingdom,Perceptions of corruption,0.278
+795,Ireland,Perceptions of corruption,0.31
+796,Germany,Perceptions of corruption,0.265
+797,Belgium,Perceptions of corruption,0.21
+798,United States of America,Perceptions of corruption,0.128
+799,Czech Republic,Perceptions of corruption,0.036
+800,United Arab Emirates,Perceptions of corruption,0.182
+801,Malta,Perceptions of corruption,0.151
+802,Mexico,Perceptions of corruption,0.073
+803,France,Perceptions of corruption,0.183
+804,Taiwan,Perceptions of corruption,0.097
+805,Chile,Perceptions of corruption,0.056
+806,Guatemala,Perceptions of corruption,0.078
+807,Saudi Arabia,Perceptions of corruption,0.132
+808,Qatar,Perceptions of corruption,0.167
+809,Spain,Perceptions of corruption,0.079
+810,Panama,Perceptions of corruption,0.054
+811,Brazil,Perceptions of corruption,0.086
+812,Uruguay,Perceptions of corruption,0.15
+813,Singapore,Perceptions of corruption,0.453
+814,El Salvador,Perceptions of corruption,0.074
+815,Italy,Perceptions of corruption,0.03
+816,Bahrain,Perceptions of corruption,0.11
+817,Slovakia,Perceptions of corruption,0.014
+818,Trinidad & Tobago,Perceptions of corruption,0.016
+819,Poland,Perceptions of corruption,0.05
+820,Uzbekistan,Perceptions of corruption,0.24
+821,Lithuania,Perceptions of corruption,0.042
+822,Colombia,Perceptions of corruption,0.034
+823,Slovenia,Perceptions of corruption,0.057
+824,Nicaragua,Perceptions of corruption,0.127
+825,Kosovo,Perceptions of corruption,0.006
+826,Argentina,Perceptions of corruption,0.05
+827,Romania,Perceptions of corruption,0.005
+828,Cyprus,Perceptions of corruption,0.041
+829,Ecuador,Perceptions of corruption,0.087
+830,Kuwait,Perceptions of corruption,0.097
+831,Thailand,Perceptions of corruption,0.028
+832,Latvia,Perceptions of corruption,0.064
+833,South Korea,Perceptions of corruption,0.056
+834,Estonia,Perceptions of corruption,0.161
+835,Jamaica,Perceptions of corruption,0.028
+836,Mauritius,Perceptions of corruption,0.06
+837,Japan,Perceptions of corruption,0.14
+838,Honduras,Perceptions of corruption,0.078
+839,Kazakhstan,Perceptions of corruption,0.096
+840,Bolivia,Perceptions of corruption,0.064
+841,Hungary,Perceptions of corruption,0.02
+842,Paraguay,Perceptions of corruption,0.08
+843,Northern Cyprus,Perceptions of corruption,0.162
+844,Peru,Perceptions of corruption,0.027
+845,Portugal,Perceptions of corruption,0.025
+846,Pakistan,Perceptions of corruption,0.098
+847,Russia,Perceptions of corruption,0.031
+848,Philippines,Perceptions of corruption,0.107
+849,Serbia,Perceptions of corruption,0.039
+850,Moldova,Perceptions of corruption,0.0
+851,Libya,Perceptions of corruption,0.152
+852,Montenegro,Perceptions of corruption,0.08
+853,Tajikistan,Perceptions of corruption,0.144
+854,Croatia,Perceptions of corruption,0.022
+855,Hong Kong,Perceptions of corruption,0.287
+856,Dominican Republic,Perceptions of corruption,0.101
+857,Bosnia and Herzegovina,Perceptions of corruption,0.006
+858,Turkey,Perceptions of corruption,0.106
+859,Malaysia,Perceptions of corruption,0.024
+860,Belarus,Perceptions of corruption,0.142
+861,Greece,Perceptions of corruption,0.034
+862,Mongolia,Perceptions of corruption,0.038
+863,North Macedonia,Perceptions of corruption,0.034
+864,Nigeria,Perceptions of corruption,0.041
+865,Kyrgyzstan,Perceptions of corruption,0.023
+866,Turkmenistan,Perceptions of corruption,0.028
+867,Algeria,Perceptions of corruption,0.114
+868,Morocco,Perceptions of corruption,0.076
+869,Azerbaijan,Perceptions of corruption,0.182
+870,Lebanon,Perceptions of corruption,0.027
+871,Indonesia,Perceptions of corruption,0.028
+872,China,Perceptions of corruption,0.1
+873,Vietnam,Perceptions of corruption,0.073
+874,Bhutan,Perceptions of corruption,0.167
+875,Cameroon,Perceptions of corruption,0.037
+876,Bulgaria,Perceptions of corruption,0.004
+877,Ghana,Perceptions of corruption,0.04
+878,Ivory Coast,Perceptions of corruption,0.09
+879,Nepal,Perceptions of corruption,0.089
+880,Jordan,Perceptions of corruption,0.13
+881,Benin,Perceptions of corruption,0.082
+882,Congo (Brazzaville),Perceptions of corruption,0.093
+883,Gabon,Perceptions of corruption,0.055
+884,Laos,Perceptions of corruption,0.164
+885,South Africa,Perceptions of corruption,0.055
+886,Albania,Perceptions of corruption,0.027
+887,Venezuela,Perceptions of corruption,0.047
+888,Cambodia,Perceptions of corruption,0.062
+889,Palestinian Territories,Perceptions of corruption,0.066
+890,Senegal,Perceptions of corruption,0.072
+891,Somalia,Perceptions of corruption,0.27
+892,Namibia,Perceptions of corruption,0.056
+893,Niger,Perceptions of corruption,0.102
+894,Burkina Faso,Perceptions of corruption,0.113
+895,Armenia,Perceptions of corruption,0.064
+896,Iran,Perceptions of corruption,0.125
+897,Guinea,Perceptions of corruption,0.086
+898,Georgia,Perceptions of corruption,0.164
+899,Gambia,Perceptions of corruption,0.167
+900,Kenya,Perceptions of corruption,0.053
+901,Mauritania,Perceptions of corruption,0.088
+902,Mozambique,Perceptions of corruption,0.138
+903,Tunisia,Perceptions of corruption,0.055
+904,Bangladesh,Perceptions of corruption,0.143
+905,Iraq,Perceptions of corruption,0.089
+906,Congo (Kinshasa),Perceptions of corruption,0.053
+907,Mali,Perceptions of corruption,0.052
+908,Sierra Leone,Perceptions of corruption,0.045
+909,Sri Lanka,Perceptions of corruption,0.047
+910,Myanmar,Perceptions of corruption,0.172
+911,Chad,Perceptions of corruption,0.078
+912,Ukraine,Perceptions of corruption,0.01
+913,Ethiopia,Perceptions of corruption,0.1
+914,Swaziland,Perceptions of corruption,0.135
+915,Uganda,Perceptions of corruption,0.06
+916,Egypt,Perceptions of corruption,0.067
+917,Zambia,Perceptions of corruption,0.087
+918,Togo,Perceptions of corruption,0.085
+919,India,Perceptions of corruption,0.085
+920,Liberia,Perceptions of corruption,0.033
+921,Comoros,Perceptions of corruption,0.078
+922,Madagascar,Perceptions of corruption,0.041
+923,Lesotho,Perceptions of corruption,0.093
+924,Burundi,Perceptions of corruption,0.18
+925,Zimbabwe,Perceptions of corruption,0.089
+926,Haiti,Perceptions of corruption,0.11
+927,Botswana,Perceptions of corruption,0.1
+928,Syria,Perceptions of corruption,0.141
+929,Malawi,Perceptions of corruption,0.089
+930,Yemen,Perceptions of corruption,0.077
+931,Rwanda,Perceptions of corruption,0.411
+932,Tanzania,Perceptions of corruption,0.147
+933,Afghanistan,Perceptions of corruption,0.025
+934,Central African Republic,Perceptions of corruption,0.035
+935,South Sudan,Perceptions of corruption,0.091

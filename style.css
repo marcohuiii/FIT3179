@@ -4,20 +4,27 @@ body{
 
 #title{
 	text-align: center;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: large;
 }
 
 #maptitle{
 	text-align: center;
+    font-family: "Helvetica";
 }
 
 #text1{
-    margin-top: 30px;
-    margin-left: 200px;
-    margin-right: 200px;
+    font-family: "Helvetica";
+    margin-top: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
 #map{
+    font-family: "Helvetica";
     background-color: #fffaec;
     text-align: center;
 }
