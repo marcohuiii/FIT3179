@@ -21,10 +21,21 @@ body{
     margin-right: 500px;
     margin-bottom: 30px;
     text-align: center;
+    color: #a9a9a9;
 }
 
 #map{
     font-family: "Helvetica";
     background-color: #fffaec;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#top5title{
+	text-align: center;
+    font-family: "Helvetica";
+}
+
+#top5countries{
     text-align: center;
 }

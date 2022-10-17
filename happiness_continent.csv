@@ -1,0 +1,146 @@
+,name,region,Overall rank,Country or region,Score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
+0,Afghanistan,Asia,154,Afghanistan,3.203,0.35,0.517,0.361,0.0,0.158,0.025
+1,Albania,Europe,107,Albania,4.719,0.947,0.848,0.874,0.383,0.178,0.027
+2,Algeria,Africa,88,Algeria,5.211,1.002,1.16,0.785,0.086,0.073,0.114
+3,Argentina,Americas,47,Argentina,6.086,1.092,1.432,0.881,0.471,0.066,0.05
+4,Armenia,Asia,116,Armenia,4.559,0.85,1.055,0.815,0.283,0.095,0.064
+5,Australia,Oceania,11,Australia,7.228,1.372,1.548,1.036,0.557,0.332,0.29
+6,Austria,Europe,10,Austria,7.246,1.376,1.475,1.016,0.532,0.244,0.226
+7,Azerbaijan,Asia,90,Azerbaijan,5.208,1.043,1.147,0.769,0.351,0.035,0.182
+8,Bahrain,Asia,37,Bahrain,6.199,1.362,1.368,0.871,0.536,0.255,0.11
+9,Bangladesh,Asia,125,Bangladesh,4.456,0.562,0.928,0.723,0.527,0.166,0.143
+10,Belarus,Europe,81,Belarus,5.323,1.067,1.465,0.789,0.235,0.094,0.142
+11,Belgium,Europe,18,Belgium,6.923,1.356,1.504,0.986,0.473,0.16,0.21
+12,Benin,Africa,102,Benin,4.883,0.393,0.437,0.397,0.349,0.175,0.082
+13,Bhutan,Asia,95,Bhutan,5.082,0.813,1.321,0.604,0.457,0.37,0.167
+14,Bolivia,Americas,61,Bolivia,5.779,0.776,1.209,0.706,0.511,0.137,0.064
+15,Botswana,Africa,148,Botswana,3.488,1.041,1.145,0.538,0.455,0.025,0.1
+16,Brazil,Americas,32,Brazil,6.3,1.004,1.439,0.802,0.39,0.099,0.086
+17,Bulgaria,Europe,97,Bulgaria,5.011,1.092,1.513,0.815,0.311,0.081,0.004
+18,Burkina Faso,Africa,115,Burkina Faso,4.587,0.331,1.056,0.38,0.255,0.177,0.113
+19,Burundi,Africa,145,Burundi,3.775,0.046,0.447,0.38,0.22,0.176,0.18
+20,Cambodia,Asia,109,Cambodia,4.7,0.574,1.122,0.637,0.609,0.232,0.062
+21,Cameroon,Africa,96,Cameroon,5.044,0.549,0.91,0.331,0.381,0.187,0.037
+22,Canada,Americas,9,Canada,7.278,1.365,1.505,1.039,0.584,0.285,0.308
+23,Central African Republic,Africa,155,Central African Republic,3.083,0.026,0.0,0.105,0.225,0.235,0.035
+24,Chad,Africa,132,Chad,4.35,0.35,0.766,0.192,0.174,0.198,0.078
+25,Chile,Americas,26,Chile,6.444,1.159,1.369,0.92,0.357,0.187,0.056
+26,China,Asia,93,China,5.191,1.029,1.125,0.893,0.521,0.058,0.1
+27,Colombia,Americas,43,Colombia,6.125,0.985,1.41,0.841,0.47,0.099,0.034
+28,Comoros,Africa,142,Comoros,3.973,0.274,0.757,0.505,0.142,0.275,0.078
+29,Costa Rica,Americas,12,Costa Rica,7.167,1.034,1.441,0.963,0.558,0.144,0.093
+30,Croatia,Europe,75,Croatia,5.432,1.155,1.266,0.914,0.296,0.119,0.022
+31,Cyprus,Asia,49,Cyprus,6.046,1.263,1.223,1.042,0.406,0.19,0.041
+32,Czech Republic,Europe,20,Czech Republic,6.852,1.269,1.487,0.92,0.457,0.046,0.036
+33,Denmark,Europe,2,Denmark,7.6,1.383,1.573,0.996,0.592,0.252,0.41
+34,Dominican Republic,Americas,77,Dominican Republic,5.425,1.015,1.401,0.779,0.497,0.113,0.101
+35,Ecuador,Americas,50,Ecuador,6.028,0.912,1.312,0.868,0.498,0.126,0.087
+36,Egypt,Africa,137,Egypt,4.166,0.913,1.039,0.644,0.241,0.076,0.067
+37,El Salvador,Americas,35,El Salvador,6.253,0.794,1.242,0.789,0.43,0.093,0.074
+38,Estonia,Europe,55,Estonia,5.893,1.237,1.528,0.874,0.495,0.103,0.161
+39,Ethiopia,Africa,134,Ethiopia,4.286,0.336,1.033,0.532,0.344,0.209,0.1
+40,Finland,Europe,1,Finland,7.769,1.34,1.587,0.986,0.596,0.153,0.393
+41,France,Europe,24,France,6.592,1.324,1.472,1.045,0.436,0.111,0.183
+42,Gabon,Africa,104,Gabon,4.799,1.057,1.183,0.571,0.295,0.043,0.055
+43,Gambia,Africa,120,Gambia,4.516,0.308,0.939,0.428,0.382,0.269,0.167
+44,Georgia,Asia,119,Georgia,4.519,0.886,0.666,0.752,0.346,0.043,0.164
+45,Germany,Europe,17,Germany,6.985,1.373,1.454,0.987,0.495,0.261,0.265
+46,Ghana,Africa,98,Ghana,4.996,0.611,0.868,0.486,0.381,0.245,0.04
+47,Greece,Europe,82,Greece,5.287,1.181,1.156,0.999,0.067,0.0,0.034
+48,Guatemala,Americas,27,Guatemala,6.436,0.8,1.269,0.746,0.535,0.175,0.078
+49,Guinea,Africa,118,Guinea,4.534,0.38,0.829,0.375,0.332,0.207,0.086
+50,Haiti,Americas,147,Haiti,3.597,0.323,0.688,0.449,0.026,0.419,0.11
+51,Honduras,Americas,59,Honduras,5.86,0.642,1.236,0.828,0.507,0.246,0.078
+52,Hong Kong,Asia,76,Hong Kong,5.43,1.438,1.277,1.122,0.44,0.258,0.287
+53,Hungary,Europe,62,Hungary,5.758,1.201,1.41,0.828,0.199,0.081,0.02
+54,Iceland,Europe,4,Iceland,7.494,1.38,1.624,1.026,0.591,0.354,0.118
+55,India,Asia,140,India,4.015,0.755,0.765,0.588,0.498,0.2,0.085
+56,Indonesia,Asia,92,Indonesia,5.192,0.931,1.203,0.66,0.491,0.498,0.028
+57,Iran,Asia,117,Iran,4.548,1.1,0.842,0.785,0.305,0.27,0.125
+58,Iraq,Asia,126,Iraq,4.437,1.043,0.98,0.574,0.241,0.148,0.089
+59,Ireland,Europe,16,Ireland,7.021,1.499,1.553,0.999,0.516,0.298,0.31
+60,Israel,Asia,13,Israel,7.139,1.276,1.455,1.029,0.371,0.261,0.082
+61,Italy,Europe,36,Italy,6.223,1.294,1.488,1.039,0.231,0.158,0.03
+62,Jamaica,Americas,56,Jamaica,5.89,0.831,1.478,0.831,0.49,0.107,0.028
+63,Japan,Asia,58,Japan,5.886,1.327,1.419,1.088,0.445,0.069,0.14
+64,Jordan,Asia,101,Jordan,4.906,0.837,1.225,0.815,0.383,0.11,0.13
+65,Kazakhstan,Asia,60,Kazakhstan,5.809,1.173,1.508,0.729,0.41,0.146,0.096
+66,Kenya,Africa,121,Kenya,4.509,0.512,0.983,0.581,0.431,0.372,0.053
+67,South Korea,Asia,54,South Korea,5.895,1.301,1.219,1.036,0.159,0.175,0.056
+68,Kuwait,Asia,51,Kuwait,6.021,1.5,1.319,0.808,0.493,0.142,0.097
+69,Kyrgyzstan,Asia,86,Kyrgyzstan,5.261,0.551,1.438,0.723,0.508,0.3,0.023
+70,Laos,Asia,105,Laos,4.796,0.764,1.03,0.551,0.547,0.266,0.164
+71,Latvia,Europe,53,Latvia,5.94,1.187,1.465,0.812,0.264,0.075,0.064
+72,Lebanon,Asia,91,Lebanon,5.197,0.987,1.224,0.815,0.216,0.166,0.027
+73,Lesotho,Africa,144,Lesotho,3.802,0.489,1.169,0.168,0.359,0.107,0.093
+74,Liberia,Africa,141,Liberia,3.975,0.073,0.922,0.443,0.37,0.233,0.033
+75,Libya,Africa,72,Libya,5.525,1.044,1.303,0.673,0.416,0.133,0.152
+76,Lithuania,Europe,42,Lithuania,6.149,1.238,1.515,0.818,0.291,0.043,0.042
+77,Luxembourg,Europe,14,Luxembourg,7.09,1.609,1.479,1.012,0.526,0.194,0.316
+78,Madagascar,Africa,143,Madagascar,3.933,0.274,0.916,0.555,0.148,0.169,0.041
+79,Malawi,Africa,150,Malawi,3.41,0.191,0.56,0.495,0.443,0.218,0.089
+80,Malaysia,Asia,80,Malaysia,5.339,1.221,1.171,0.828,0.508,0.26,0.024
+81,Mali,Africa,128,Mali,4.39,0.385,1.105,0.308,0.327,0.153,0.052
+82,Malta,Europe,22,Malta,6.726,1.3,1.52,0.999,0.564,0.375,0.151
+83,Mauritania,Africa,122,Mauritania,4.49,0.57,1.167,0.489,0.066,0.106,0.088
+84,Mauritius,Africa,57,Mauritius,5.888,1.12,1.402,0.798,0.498,0.215,0.06
+85,Mexico,Americas,23,Mexico,6.595,1.07,1.323,0.861,0.433,0.074,0.073
+86,Moldova,Europe,71,Moldova,5.529,0.685,1.328,0.739,0.245,0.181,0.0
+87,Mongolia,Asia,83,Mongolia,5.285,0.948,1.531,0.667,0.317,0.235,0.038
+88,Montenegro,Europe,73,Montenegro,5.523,1.051,1.361,0.871,0.197,0.142,0.08
+89,Morocco,Africa,89,Morocco,5.208,0.801,0.782,0.782,0.418,0.036,0.076
+90,Mozambique,Africa,123,Mozambique,4.466,0.204,0.986,0.39,0.494,0.197,0.138
+91,Myanmar,Asia,131,Myanmar,4.36,0.71,1.181,0.555,0.525,0.566,0.172
+92,Namibia,Africa,113,Namibia,4.639,0.879,1.313,0.477,0.401,0.07,0.056
+93,Nepal,Asia,100,Nepal,4.913,0.446,1.226,0.677,0.439,0.285,0.089
+94,Netherlands,Europe,5,Netherlands,7.488,1.396,1.522,0.999,0.557,0.322,0.298
+95,New Zealand,Oceania,8,New Zealand,7.307,1.303,1.557,1.026,0.585,0.33,0.38
+96,Nicaragua,Americas,45,Nicaragua,6.105,0.694,1.325,0.835,0.435,0.2,0.127
+97,Niger,Africa,114,Niger,4.628,0.138,0.774,0.366,0.318,0.188,0.102
+98,Nigeria,Africa,85,Nigeria,5.265,0.696,1.111,0.245,0.426,0.215,0.041
+99,Norway,Europe,3,Norway,7.554,1.488,1.582,1.028,0.603,0.271,0.341
+100,Pakistan,Asia,67,Pakistan,5.653,0.677,0.886,0.535,0.313,0.22,0.098
+101,Panama,Americas,31,Panama,6.321,1.149,1.442,0.91,0.516,0.109,0.054
+102,Paraguay,Americas,63,Paraguay,5.743,0.855,1.475,0.777,0.514,0.184,0.08
+103,Peru,Americas,65,Peru,5.697,0.96,1.274,0.854,0.455,0.083,0.027
+104,Philippines,Asia,69,Philippines,5.631,0.807,1.293,0.657,0.558,0.117,0.107
+105,Poland,Europe,40,Poland,6.182,1.206,1.438,0.884,0.483,0.117,0.05
+106,Portugal,Europe,66,Portugal,5.693,1.221,1.431,0.999,0.508,0.047,0.025
+107,Qatar,Asia,29,Qatar,6.374,1.684,1.313,0.871,0.555,0.22,0.167
+108,Romania,Europe,48,Romania,6.07,1.162,1.232,0.825,0.462,0.083,0.005
+109,Russia,Europe,68,Russia,5.648,1.183,1.452,0.726,0.334,0.082,0.031
+110,Rwanda,Africa,152,Rwanda,3.334,0.359,0.711,0.614,0.555,0.217,0.411
+111,Saudi Arabia,Asia,28,Saudi Arabia,6.375,1.403,1.357,0.795,0.439,0.08,0.132
+112,Senegal,Africa,111,Senegal,4.681,0.45,1.134,0.571,0.292,0.153,0.072
+113,Serbia,Europe,70,Serbia,5.603,1.004,1.383,0.854,0.282,0.137,0.039
+114,Sierra Leone,Africa,129,Sierra Leone,4.374,0.268,0.841,0.242,0.309,0.252,0.045
+115,Singapore,Asia,34,Singapore,6.262,1.572,1.463,1.141,0.556,0.271,0.453
+116,Slovakia,Europe,38,Slovakia,6.198,1.246,1.504,0.881,0.334,0.121,0.014
+117,Slovenia,Europe,44,Slovenia,6.118,1.258,1.523,0.953,0.564,0.144,0.057
+118,Somalia,Africa,112,Somalia,4.668,0.0,0.698,0.268,0.559,0.243,0.27
+119,South Africa,Africa,106,South Africa,4.722,0.96,1.351,0.469,0.389,0.13,0.055
+120,South Sudan,Africa,156,South Sudan,2.853,0.306,0.575,0.295,0.01,0.202,0.091
+121,Spain,Europe,30,Spain,6.354,1.286,1.484,1.062,0.362,0.153,0.079
+122,Sri Lanka,Asia,130,Sri Lanka,4.366,0.949,1.265,0.831,0.47,0.244,0.047
+123,Sweden,Europe,7,Sweden,7.343,1.387,1.487,1.009,0.574,0.267,0.373
+124,Switzerland,Europe,6,Switzerland,7.48,1.452,1.526,1.052,0.572,0.263,0.343
+125,Syria,Asia,149,Syria,3.462,0.619,0.378,0.44,0.013,0.331,0.141
+126,Taiwan,Asia,25,Taiwan,6.446,1.368,1.43,0.914,0.351,0.242,0.097
+127,Tajikistan,Asia,74,Tajikistan,5.467,0.493,1.098,0.718,0.389,0.23,0.144
+128,Tanzania,Africa,153,Tanzania,3.231,0.476,0.885,0.499,0.417,0.276,0.147
+129,Thailand,Asia,52,Thailand,6.008,1.05,1.409,0.828,0.557,0.359,0.028
+130,Togo,Africa,139,Togo,4.085,0.275,0.572,0.41,0.293,0.177,0.085
+131,Tunisia,Africa,124,Tunisia,4.461,0.921,1.0,0.815,0.167,0.059,0.055
+132,Turkey,Asia,79,Turkey,5.373,1.183,1.36,0.808,0.195,0.083,0.106
+133,Turkmenistan,Asia,87,Turkmenistan,5.247,1.052,1.538,0.657,0.394,0.244,0.028
+134,Uganda,Africa,136,Uganda,4.189,0.332,1.069,0.443,0.356,0.252,0.06
+135,Ukraine,Europe,133,Ukraine,4.332,0.82,1.39,0.739,0.178,0.187,0.01
+136,United Arab Emirates,Asia,21,United Arab Emirates,6.825,1.503,1.31,0.825,0.598,0.262,0.182
+137,United Kingdom,Europe,15,United Kingdom,7.054,1.333,1.538,0.996,0.45,0.348,0.278
+138,Uruguay,Americas,33,Uruguay,6.293,1.124,1.465,0.891,0.523,0.127,0.15
+139,Uzbekistan,Asia,41,Uzbekistan,6.174,0.745,1.529,0.756,0.631,0.322,0.24
+140,Venezuela,Americas,108,Venezuela,4.707,0.96,1.427,0.805,0.154,0.064,0.047
+141,Vietnam,Asia,94,Vietnam,5.175,0.741,1.346,0.851,0.543,0.147,0.073
+142,Yemen,Asia,151,Yemen,3.38,0.287,1.163,0.463,0.143,0.108,0.077
+143,Zambia,Africa,138,Zambia,4.107,0.578,1.058,0.426,0.431,0.247,0.087
+144,Zimbabwe,Africa,146,Zimbabwe,3.663,0.366,1.114,0.433,0.361,0.151,0.089
