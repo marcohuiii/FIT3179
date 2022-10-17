@@ -1,5 +1,16 @@
 body{
+    background-color: #fff6dd;
+    
+}
+
+.page {
+    width: 1000px;
     background-color: #fffaec;
+    margin: auto;
+    padding-left: 50px;
+    padding-right:50px;
+    padding-top: 35px;
+    padding-bottom: 35px;
 }
 
 #title{
@@ -17,9 +28,23 @@ body{
 #text1{
     font-family: "Helvetica";
     margin-top: 10px;
-    margin-left: 500px;
-    margin-right: 500px;
-    margin-bottom: 30px;
+    margin-bottom: 100px;
+    text-align: center;
+    color: #a9a9a9;
+}
+
+#text2{
+    font-family: "Helvetica";
+    margin-top: 10px;
+    margin-bottom: 100px;
+    text-align: center;
+    color: #a9a9a9;
+}
+
+#text3{
+    font-family: "Helvetica";
+    margin-top: 10px;
+    margin-bottom: 100px;
     text-align: center;
     color: #a9a9a9;
 }
@@ -28,7 +53,7 @@ body{
     font-family: "Helvetica";
     background-color: #fffaec;
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 }
 
 #top5title{
@@ -38,4 +63,35 @@ body{
 
 #top5countries{
     text-align: center;
+    margin-bottom: 100px;
+}
+
+#happiness{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#social{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#health{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#freedom{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#corruption{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#generosity{
+    text-align: center;
+    margin-bottom: 100px;
 }

@@ -22,7 +22,8 @@
     "x": {
       "field": "Country or region",
       "type": "ordinal",
-      "title": "Countries"
+      "title": "Countries",
+      "sort": "Score"
     },
     "xOffset": {"field": "variable"},
     "color": {"field": "variable"}

@@ -1,21 +1,38 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {
-      "url": "https://raw.githubusercontent.com/marcohuiii/FIT3179/main/2019.csv"
-    },
-    "width": 300,
-    "height": 300,
-    "title": "Can Money Buy Happiness?",
-    "mark": "circle",
-    "encoding": {
-      "y": {
-      "field": "Score",
-      "type": "quantitative",
-      "title": "Happiness Score"
-      },
-      "x": {
-      "field": "GDP per capita",
-      "type": "quantitative"
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/marcohuiii/FIT3179/main/happiness_continent.csv"
+  },
+  "width": 300,
+  "height": 300,
+  "config": {
+    "background":"#fffaec"
+  },
+  "title": "Money and Happiness",
+  "selection": {
+    "continent_highlight": {
+      "type": "multi",
+      "fields": ["region"],
+      "bind": "legend"
       }
-    }
+    },
+  "mark": "circle",
+  "encoding": {
+    "y": {
+    "field": "Score",
+    "type": "quantitative",
+    "title": "Happiness Score"
+    },
+    "x": {
+    "field": "GDP per capita",
+    "type": "quantitative"
+    },
+    "color": {
+      "field": "region"
+    },
+    "opacity": {
+      "condition": {"selection": "continent_highlight", "value": 0.6},
+      "value": 0.2
+      }
   }
+}

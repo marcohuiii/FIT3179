@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/marcohuiii/FIT3179/main/happiness_continent.csv"
+    },
+    "width": 300,
+    "height": 300,
+    "config": {
+      "background":"#fffaec"
+    },
+    "title": "Social Support and Happiness",
+    "selection": {
+      "continent_highlight": {
+        "type": "multi",
+        "fields": ["region"],
+        "bind": "legend"
+        }
+      },
+    "mark": "circle",
+    "encoding": {
+      "y": {
+      "field": "Score",
+      "type": "quantitative",
+      "title": "Happiness Score"
+      },
+      "x": {
+      "field": "Social support",
+      "type": "quantitative"
+      },
+      "color": {
+        "field": "region"
+      },
+      "opacity": {
+        "condition": {"selection": "continent_highlight", "value": 0.6},
+        "value": 0.2
+        }
+    }
+}

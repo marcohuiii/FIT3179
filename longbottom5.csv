@@ -1,0 +1,31 @@
+,Country or region,variable,value
+0,Rwanda,GDP per capita,0.359
+1,Tanzania,GDP per capita,0.476
+2,Afghanistan,GDP per capita,0.35
+3,Central African Republic,GDP per capita,0.026
+4,South Sudan,GDP per capita,0.306
+5,Rwanda,Social support,0.711
+6,Tanzania,Social support,0.885
+7,Afghanistan,Social support,0.517
+8,Central African Republic,Social support,0.0
+9,South Sudan,Social support,0.575
+10,Rwanda,Healthy life expectancy,0.614
+11,Tanzania,Healthy life expectancy,0.499
+12,Afghanistan,Healthy life expectancy,0.361
+13,Central African Republic,Healthy life expectancy,0.105
+14,South Sudan,Healthy life expectancy,0.295
+15,Rwanda,Freedom to make life choices,0.555
+16,Tanzania,Freedom to make life choices,0.417
+17,Afghanistan,Freedom to make life choices,0.0
+18,Central African Republic,Freedom to make life choices,0.225
+19,South Sudan,Freedom to make life choices,0.01
+20,Rwanda,Generosity,0.217
+21,Tanzania,Generosity,0.276
+22,Afghanistan,Generosity,0.158
+23,Central African Republic,Generosity,0.235
+24,South Sudan,Generosity,0.202
+25,Rwanda,Perceptions of corruption,0.411
+26,Tanzania,Perceptions of corruption,0.147
+27,Afghanistan,Perceptions of corruption,0.025
+28,Central African Republic,Perceptions of corruption,0.035
+29,South Sudan,Perceptions of corruption,0.091
