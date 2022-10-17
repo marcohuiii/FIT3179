@@ -1,0 +1,41 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": { 
+      "url": "https://raw.githubusercontent.com/marcohuiii/FIT3179/main/longbottom5.csv"
+    },
+    "config": {
+      "background":"#fffaec",
+      "view": {"stroke": null}
+    },
+    "width": 700,
+    "height": 300,
+    "mark": {
+      "type": "bar",
+      "tooltip": {"content": "data"}
+    },
+    "title": "",
+    "encoding": {
+      "y": {
+        "field": "value",
+        "type": "quantitative",
+        "title": "Score",
+        "scale": {
+          "domain": [
+            0,
+            2
+          ]
+        }
+      },
+      "x": {
+        "field": "Country or region",
+        "type": "ordinal",
+        "title": "Countries",
+        "sort": "Score",
+        "axis":{
+            "labelAngle": 0
+          }
+      },
+      "xOffset": {"field": "variable"},
+      "color": {"field": "variable"}
+    }
+  }

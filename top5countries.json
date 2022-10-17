@@ -4,7 +4,8 @@
     "url": "https://raw.githubusercontent.com/marcohuiii/FIT3179/main/long5.csv"
   },
   "config": {
-    "background":"#fffaec"
+    "background":"#fffaec",
+    "view": {"stroke": null}
   },
   "width": 700,
   "height": 300,
@@ -17,13 +18,23 @@
     "y": {
       "field": "value",
       "type": "quantitative",
-      "title": "Score"
+      "title": "Score",
+      "scale": {
+        "domain": [
+          0,
+          2
+        ]
+      }
+    
     },
     "x": {
       "field": "Country or region",
       "type": "ordinal",
       "title": "Countries",
-      "sort": "Score"
+      "sort": "Score",
+      "axis":{
+        "labelAngle": 0
+      }
     },
     "xOffset": {"field": "variable"},
     "color": {"field": "variable"}

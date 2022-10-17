@@ -1,5 +1,6 @@
 body{
     background-color: #fff6dd;
+    background-color: #494949;
     
 }
 
@@ -43,10 +44,24 @@ body{
 
 #text3{
     font-family: "Helvetica";
-    margin-top: 10px;
     margin-bottom: 100px;
     text-align: center;
     color: #a9a9a9;
+}
+
+#text4{
+    font-family: "Helvetica";
+    margin-bottom: 100px;
+    text-align: center;
+    color: #a9a9a9;
+}
+
+#text5{
+    font-family: "Helvetica";
+    margin-bottom: 20px;
+    text-align: center;
+    color: #a9a9a9;
+    font-size: 14px;
 }
 
 #map{
@@ -61,37 +76,53 @@ body{
     font-family: "Helvetica";
 }
 
+#bottom5title{
+	text-align: center;
+    font-family: "Helvetica";
+}
+
+#corretitle{
+	text-align: center;
+    font-family: "Helvetica";
+    margin-bottom: 10px;
+}
+
 #top5countries{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
+}
+
+#bottom5{
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 #happiness{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 #social{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 #health{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 #freedom{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 #corruption{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 #generosity{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
