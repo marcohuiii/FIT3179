@@ -18,6 +18,26 @@
             spec = "gpa_happiness.json"
             vegaEmbed('#happiness', spec).then( (result) => {
             }).catch(console.error);
+
+            spec = "social_support.json"
+            vegaEmbed('#social', spec).then( (result) => {
+            }).catch(console.error);
+
+            spec = "Health.json"
+            vegaEmbed('#health', spec).then( (result) => {
+            }).catch(console.error);
+
+            spec = "freedom.json"
+            vegaEmbed('#freedom', spec).then( (result) => {
+            }).catch(console.error);
+
+            spec = "generosity.json"
+            vegaEmbed('#generosity', spec).then( (result) => {
+            }).catch(console.error);
+
+            spec = "corruption.json"
+            vegaEmbed('#corruption', spec).then( (result) => {
+            }).catch(console.error);
         </script>
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
@@ -26,45 +46,69 @@
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
 
     <body>
-        <div class="pure-g">
-            <div id="title" class="pure-u-1">
-                <h1>World's Happiness Score</h1>
+        <div class="page">
+
+            <div class="pure-g">
+                <div id="title" class="pure-u-1">
+                    <h1>World's Happiness Score</h1>
+                </div>
             </div>
-        </div>
 
-        <div class="pure-g">
-            <div id="text1" class="pure-u-1">
-                <p>The world's happiness report is a landmark survey of the world's happiness level. This visualisation is aimed to look at the happiness level of different countries and relationship between different component of happiness score.</p>
+            <div class="pure-g">
+                <div id="text1" class="pure-u-1">
+                    <p>The world's happiness report is a landmark survey of the world's happiness level. The determinants of the happiness score includes GDP per capita, social support, healthy life expectancy, freedom to make life choices, perception of corruption and generosity. This visualisation is aimed to look at the happiness level of different countries and relationship between different component of happiness score.</p>
+                </div>
             </div>
-        </div>
 
-        <div class="pure-g">
-            <div id="maptitle" class="pure-u-1">
-                <h2>The Level of Happiness across the Globe</h2>
+            <div class="pure-g">
+                <div id="maptitle" class="pure-u-1">
+                    <h2>The Level of Happiness across the Globe</h2>
+                </div>
             </div>
-        </div>
 
-        <div class="pure-g">
+            <div class="pure-g">
 
-            <div id="map" class="pure-u-1"></div>
-            
-        </div>
-
-        <div class="pure-g">
-            <div id="top5title" class="pure-u-1">
-                <h2>The Top5 Happinest Countries</h2>
+                <div id="map" class="pure-u-1"></div>
+                
             </div>
+
+            <div class="pure-g">
+                <div id="text2" class="pure-u-1">
+                    <p>The above map shows the happiness score of each country. We can observe that the happiness level of Europe, North America and Oceania in general is higher than the others. </p>
+                </div>
+            </div>
+
+            <div class="pure-g">
+                <div id="top5title" class="pure-u-1">
+                    <h2>The Top 5 Happiest Countries</h2>
+                </div>
+            </div>
+
+            <div class="pure-g">
+                <div id="top5countries" class="pure-u-1"></div>
+            </div> 
+
+            <div class="pure-g">
+                <div id="text3" class="pure-u-1">
+                    <p>These are the top 5 happiest countries. </p>
+                </div>
+            </div>
+
+            <div class="pure-g">
+                <div id="happiness" class="pure-u-1-2"></div>
+                <div id="social" class="pure-u-1-2"></div>
+            </div> 
+
+            <div class="pure-g">
+                <div id="health" class="pure-u-1-2"></div>
+                <div id="freedom" class="pure-u-1-2"></div>
+            </div>  
+
+            <div class="pure-g">
+                <div id="generosity" class="pure-u-1-2"></div>
+                <div id="corruption" class="pure-u-1-2"></div>
+            </div>  
         </div>
-
-        <div class="pure-g">
-
-            <div id="top5countries" class="pure-u-1"></div>
-
-        </div> 
-
-        <div class="pure-g">
-            <div id="happiness" class="pure-u-1-2"></div>
-        </div>  
     </body>
 
 
